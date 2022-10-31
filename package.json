@@ -1,0 +1,17 @@
+
+{
+"name": "imi62",
+"theme": "imi62",
+"version": "7.3.4",
+"description": "imi62 ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ รับโบนัสเครดิตฟรี",
+"keywords": [
+"imi62",
+"imi62 เครดิตฟรี",
+"imi62 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/imi62",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
